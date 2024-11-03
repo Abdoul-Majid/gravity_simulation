@@ -1,0 +1,14 @@
+{
+  "name": "ii2d_toudjanisoumana",
+  "version": "1.0.0",
+  "description": "Dans ce Projet j'ai réalisé un génerateur de particules dans un canevas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
